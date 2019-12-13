@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BD69F89F-43A1-41E6-A34E-5FC5270394C4"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41EC8155-A301-4714-8541-E3FFEBD4D303"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "assignment3/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "MainViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "41EC8155-A301-4714-8541-E3FFEBD4D303 - 1b89cc02605679a0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "assignment3.MainViewController.filePath.getter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tianyangwang/Desktop/FIT5140/assignment3%202/assignment3/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "41EC8155-A301-4714-8541-E3FFEBD4D303 - a349974d2bd45a51"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "assignment3.MainViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; assignment3.MainViewController"
+                  moduleName = "assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tianyangwang/Desktop/FIT5140/assignment3%202/assignment3/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1370">
+               </Location>
+               <Location
+                  uuid = "41EC8155-A301-4714-8541-E3FFEBD4D303 - 91e881231e5f775a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "assignment3.MainViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;assignment3.MainViewController&gt;"
+                  moduleName = "assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tianyangwang/Desktop/FIT5140/assignment3%202/assignment3/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1301">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
